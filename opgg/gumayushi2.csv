@@ -1,0 +1,1501 @@
+,result,champion,d,f,mainRune,minorRune,kill,death,assist,player
+0,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,5,8,5,1
+1,Defeat,Gwen,Flash,Teleport,Conqueror,Domination,2,9,0,1
+2,Defeat,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,4,4,1,1
+3,Defeat,Sivir,Flash,Heal,Lethal Tempo,Inspiration,2,10,8,1
+4,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,6,5,13,1
+5,Defeat,Kog'Maw,Flash,Heal,Lethal Tempo,Inspiration,2,13,6,1
+6,Victory,Vayne,Flash,Heal,Press the Attack,Domination,8,3,9,1
+7,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,5,3,5,1
+8,Victory,Kog'Maw,Flash,Heal,Lethal Tempo,Inspiration,8,3,8,1
+9,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,8,2,5,1
+10,Defeat,Viego,Flash,Ignite,Conqueror,Domination,0,10,2,1
+11,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,1,4,6,1
+12,Victory,Varus,Flash,Cleanse,Hail of Blades,Inspiration,4,3,11,1
+13,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,2,1,5,1
+14,Defeat,Kog'Maw,Flash,Teleport,Arcane Comet,Inspiration,7,7,8,1
+15,Victory,Vayne,Flash,Heal,Press the Attack,Domination,6,2,4,1
+16,Victory,Kog'Maw,Flash,Teleport,Arcane Comet,Inspiration,13,1,13,1
+17,Victory,Kog'Maw,Flash,Teleport,Arcane Comet,Inspiration,8,3,5,1
+18,Defeat,Kog'Maw,Flash,Heal,Lethal Tempo,Inspiration,3,5,7,1
+19,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,3,8,2,1
+20,Victory,Varus,Flash,Heal,Hail of Blades,Inspiration,11,2,8,1
+21,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,4,1,3,1
+22,Victory,Varus,Flash,Heal,Hail of Blades,Inspiration,9,2,12,1
+23,Defeat,Aphelios,Flash,Heal,Conqueror,Domination,4,3,6,1
+24,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,12,2,5,1
+25,Defeat,Kog'Maw,Flash,Heal,Lethal Tempo,Inspiration,1,4,2,1
+26,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,7,3,1,1
+27,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,6,3,7,1
+28,Defeat,Samira,Flash,Heal,Conqueror,Domination,4,8,3,1
+29,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,1,6,1,1
+30,Defeat,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,0,3,2,1
+31,Victory,Lee Sin,Flash,Teleport,Conqueror,Resolve,7,4,5,1
+32,Victory,Lee Sin,Flash,Teleport,Conqueror,Resolve,5,5,3,1
+33,Defeat,Jinx,Flash,Heal,Conqueror,Domination,6,8,9,1
+34,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,5,2,3,1
+35,Victory,Samira,Flash,Heal,Conqueror,Domination,11,5,7,1
+36,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,25,9,7,1
+37,Defeat,Varus,Flash,Heal,Hail of Blades,Inspiration,10,6,14,1
+38,Defeat,Varus,Flash,Heal,Hail of Blades,Inspiration,5,10,3,1
+39,Defeat,Senna,Flash,Heal,Glacial Augment,Domination,6,5,14,1
+40,Victory,Vayne,Flash,Heal,Press the Attack,Domination,12,6,11,1
+41,Victory,Zac,Flash,Smite,Aftershock,Precision,5,2,17,1
+42,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,13,1,4,1
+43,Defeat,Fiora,Flash,Teleport,Conqueror,Domination,1,8,6,1
+44,Defeat,Kog'Maw,Flash,Heal,Arcane Comet,Inspiration,2,10,3,1
+45,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,5,4,11,1
+46,Victory,Ashe,Flash,Cleanse,Lethal Tempo,Inspiration,6,4,16,1
+47,Defeat,Twitch,Flash,Heal,Hail of Blades,Precision,6,9,6,1
+48,Defeat,Kog'Maw,Flash,Heal,Lethal Tempo,Inspiration,2,8,6,1
+49,Defeat,Lucian,Flash,Heal,Press the Attack,Inspiration,1,6,2,1
+50,Remake,Kog'Maw,Flash,Heal,Arcane Comet,Inspiration,0,0,0,1
+51,Victory,Kog'Maw,Flash,Heal,Lethal Tempo,Inspiration,9,5,10,1
+52,Defeat,Diana,Flash,Smite,Conqueror,Domination,3,8,4,1
+53,Victory,Kog'Maw,Flash,Heal,Lethal Tempo,Inspiration,13,2,8,1
+54,Victory,Kog'Maw,Flash,Heal,Arcane Comet,Inspiration,4,3,5,1
+55,Victory,Kog'Maw,Flash,Cleanse,Lethal Tempo,Inspiration,10,4,5,1
+56,Defeat,Varus,Flash,Cleanse,Hail of Blades,Inspiration,5,7,6,1
+57,Victory,Syndra,Flash,Teleport,Phase Rush,Inspiration,4,2,5,1
+58,Victory,Jinx,Flash,Cleanse,Lethal Tempo,Domination,5,3,8,1
+59,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,4,5,5,1
+60,Defeat,Samira,Flash,Heal,Conqueror,Domination,7,9,18,1
+61,Defeat,Senna,Flash,Heal,Glacial Augment,Domination,3,8,8,1
+62,Defeat,Kayn,Flash,Smite,Conqueror,Domination,8,6,10,1
+63,Victory,Vayne,Flash,Heal,Press the Attack,Domination,9,4,7,1
+64,Defeat,Vayne,Flash,Cleanse,Press the Attack,Domination,3,9,7,1
+65,Victory,Senna,Flash,Heal,Glacial Augment,Domination,4,2,14,1
+66,Defeat,Varus,Flash,Heal,Hail of Blades,Inspiration,3,9,3,1
+67,Defeat,Varus,Flash,Heal,Hail of Blades,Inspiration,0,2,0,1
+68,Victory,Jinx,Flash,Heal,Conqueror,Domination,8,8,13,1
+69,Defeat,Renekton,Flash,Teleport,Press the Attack,Resolve,3,10,0,1
+70,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,4,7,5,1
+71,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,2,2,11,1
+72,Victory,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,2,5,12,1
+73,Victory,Aatrox,Flash,Teleport,Conqueror,Resolve,3,5,13,1
+74,Victory,Samira,Flash,Heal,Conqueror,Domination,9,4,8,1
+75,Victory,Vayne,Flash,Heal,Press the Attack,Domination,8,4,10,1
+76,Victory,Kalista,Flash,Heal,Hail of Blades,Inspiration,7,6,17,1
+77,Defeat,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,1,5,7,1
+78,Victory,Cho'Gath,Flash,Teleport,Grasp of the Undying,Inspiration,4,2,5,1
+79,Defeat,Diana,Flash,Smite,Conqueror,Domination,3,5,6,1
+80,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,5,4,7,1
+81,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,6,12,11,1
+82,Victory,Samira,Flash,Heal,Conqueror,Domination,13,3,12,1
+83,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,9,2,12,1
+84,Victory,Vayne,Flash,Heal,Press the Attack,Domination,8,7,9,1
+85,Defeat,Varus,Flash,Heal,Hail of Blades,Inspiration,6,3,3,1
+86,Defeat,Diana,Flash,Smite,Conqueror,Domination,4,3,8,1
+87,Defeat,Samira,Flash,Heal,Conqueror,Domination,5,7,7,1
+88,Defeat,Darius,Ghost,Smite,Conqueror,Sorcery,4,6,3,1
+89,Defeat,Samira,Flash,Heal,Conqueror,Domination,2,7,0,1
+90,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,10,6,8,1
+91,Defeat,Senna,Flash,Heal,Glacial Augment,Domination,1,7,6,1
+92,Victory,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,2,3,1,1
+93,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,9,4,13,1
+94,Victory,Vayne,Flash,Cleanse,Press the Attack,Domination,6,2,7,1
+95,Victory,Samira,Flash,Heal,Conqueror,Domination,13,7,13,1
+96,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,5,9,6,1
+97,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,9,4,8,1
+98,Victory,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,8,4,3,1
+99,Victory,Jinx,Flash,Heal,Conqueror,Domination,16,3,6,1
+100,Defeat,Samira,Flash,Heal,Conqueror,Domination,3,6,0,1
+101,Victory,Varus,Flash,Heal,Hail of Blades,Inspiration,12,5,4,1
+102,Victory,Jinx,Flash,Heal,Conqueror,Domination,11,0,2,1
+103,Defeat,Ezreal,Flash,Heal,Conqueror,Inspiration,4,9,6,1
+104,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,7,5,8,1
+105,Defeat,Poppy,Flash,Smite,Hail of Blades,Sorcery,2,7,4,1
+106,Defeat,Senna,Flash,Heal,Glacial Augment,Domination,1,7,8,1
+107,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,1,7,5,1
+108,Victory,Varus,Flash,Heal,Hail of Blades,Inspiration,7,4,17,1
+109,Victory,Samira,Flash,Heal,Conqueror,Domination,3,3,5,1
+110,Defeat,Samira,Flash,Heal,Conqueror,Domination,1,13,2,1
+111,Victory,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,2,3,11,1
+112,Defeat,Samira,Flash,Heal,Conqueror,Domination,1,11,9,1
+113,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,7,2,9,1
+114,Victory,Aphelios,Flash,Heal,Lethal Tempo,Domination,4,7,8,1
+115,Defeat,Samira,Flash,Heal,Conqueror,Domination,10,8,7,1
+116,Defeat,Darius,Flash,Smite,Phase Rush,Precision,3,5,6,1
+117,Defeat,Jinx,Flash,Cleanse,Lethal Tempo,Domination,0,8,6,1
+118,Defeat,Samira,Flash,Heal,Conqueror,Domination,0,4,0,1
+119,Defeat,Samira,Flash,Heal,Conqueror,Domination,2,9,3,1
+120,Defeat,Kled,Flash,Teleport,Conqueror,Resolve,2,6,2,1
+121,Victory,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,9,4,9,1
+122,Defeat,Jinx,Flash,Cleanse,Lethal Tempo,Domination,3,7,3,1
+123,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,6,1,1,1
+124,Defeat,Aphelios,Flash,Heal,Conqueror,Domination,5,12,10,1
+125,Victory,Darius,Ghost,Smite,Phase Rush,Precision,9,4,10,1
+126,Defeat,Varus,Flash,Heal,Arcane Comet,Inspiration,1,5,1,1
+127,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,10,2,7,1
+128,Defeat,Samira,Flash,Heal,Conqueror,Domination,1,8,10,1
+129,Victory,Samira,Flash,Heal,Conqueror,Domination,5,2,11,1
+130,Defeat,Varus,Flash,Heal,Hail of Blades,Inspiration,12,7,7,1
+131,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,3,3,6,1
+132,Victory,Samira,Flash,Heal,Conqueror,Domination,15,7,6,1
+133,Defeat,Samira,Flash,Heal,Conqueror,Domination,5,6,6,1
+134,Victory,Vayne,Flash,Cleanse,Press the Attack,Domination,9,3,7,1
+135,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,7,6,9,1
+136,Defeat,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,4,6,6,1
+137,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,4,9,8,1
+138,Defeat,Viego,Flash,Teleport,Conqueror,Domination,3,7,4,1
+139,Defeat,Jinx,Flash,Cleanse,Lethal Tempo,Domination,1,8,3,1
+140,Defeat,Renekton,Flash,Teleport,Conqueror,Resolve,2,9,1,1
+141,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,5,7,6,1
+142,Defeat,Varus,Flash,Heal,Hail of Blades,Inspiration,0,9,3,1
+143,Defeat,Jinx,Flash,Heal,Conqueror,Domination,1,4,4,1
+144,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,9,2,12,1
+145,Defeat,Yorick,Flash,Teleport,Conqueror,Resolve,9,7,7,1
+146,Defeat,Viego,Flash,Ignite,Conqueror,Domination,16,9,2,1
+147,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,11,5,7,1
+148,Defeat,Samira,Flash,Heal,Conqueror,Domination,4,10,2,1
+149,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,2,5,5,1
+150,Defeat,Lucian,Flash,Cleanse,Press the Attack,Inspiration,7,9,4,1
+151,Victory,Aphelios,Flash,Cleanse,Conqueror,Domination,4,5,14,1
+152,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,7,12,11,1
+153,Victory,Varus,Flash,Heal,Hail of Blades,Inspiration,11,1,7,1
+154,Defeat,Jhin,Flash,Cleanse,Fleet Footwork,Sorcery,2,6,1,1
+155,Defeat,Darius,Ghost,Smite,Conqueror,Sorcery,11,7,3,1
+156,Victory,Samira,Flash,Heal,Conqueror,Domination,13,5,7,1
+157,Victory,Kayn,Flash,Smite,Dark Harvest,Sorcery,14,7,7,1
+158,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,7,9,9,1
+159,Victory,Aphelios,Flash,Heal,Conqueror,Domination,7,0,10,1
+160,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,4,5,1,1
+161,Victory,Varus,Flash,Heal,Hail of Blades,Inspiration,11,2,7,1
+162,Victory,Darius,Ghost,Smite,Conqueror,Sorcery,3,2,10,1
+163,Victory,Senna,Flash,Heal,Glacial Augment,Domination,5,4,8,1
+164,Defeat,Rumble,Flash,Smite,Dark Harvest,Sorcery,5,12,9,1
+165,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,7,2,8,1
+166,Defeat,Jinx,Flash,Cleanse,Lethal Tempo,Domination,1,6,4,1
+167,Defeat,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,6,9,15,1
+168,Victory,Varus,Flash,Heal,Hail of Blades,Inspiration,9,5,8,1
+169,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,6,15,7,1
+170,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,9,5,7,1
+171,Victory,Darius,Ghost,Smite,Conqueror,Sorcery,5,3,8,1
+172,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,6,3,3,1
+173,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,9,2,3,1
+174,Victory,Ivern,Clarity,Heal,Summon Aery,Inspiration,2,7,38,1
+175,Victory,Samira,Flash,Heal,Conqueror,Domination,11,4,11,1
+176,Victory,Samira,Flash,Heal,Conqueror,Domination,6,2,3,1
+177,Victory,Aatrox,Flash,Teleport,Conqueror,Resolve,3,6,12,1
+178,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,6,1,9,1
+179,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,5,11,9,1
+180,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,8,7,5,1
+181,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,15,2,13,1
+182,Victory,Senna,Flash,Heal,Glacial Augment,Domination,3,7,19,1
+183,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,4,7,4,1
+184,Defeat,Varus,Flash,Heal,Hail of Blades,Inspiration,7,5,4,1
+185,Victory,Aphelios,Flash,Heal,Conqueror,Domination,2,5,5,1
+186,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,2,6,6,1
+187,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,3,10,0,1
+188,Defeat,Sivir,Flash,Heal,Lethal Tempo,Inspiration,0,5,6,1
+189,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,3,5,6,1
+190,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,4,8,6,1
+191,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,2,7,4,1
+192,Defeat,Gwen,Flash,Ignite,Conqueror,Domination,22,9,6,1
+193,Victory,Gwen,Flash,Teleport,Conqueror,Inspiration,14,13,11,1
+194,Victory,Samira,Flash,Heal,Conqueror,Domination,7,0,1,1
+195,Victory,Samira,Flash,Heal,Conqueror,Domination,5,4,10,1
+196,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,9,7,9,1
+197,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,0,1,0,1
+198,Defeat,Varus,Flash,Heal,Hail of Blades,Inspiration,2,5,2,1
+199,Victory,Samira,Flash,Heal,Conqueror,Domination,13,1,5,1
+200,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,8,10,12,1
+201,Defeat,Samira,Flash,Cleanse,Conqueror,Domination,4,6,3,1
+202,Victory,Samira,Flash,Heal,Conqueror,Domination,1,2,6,1
+203,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,19,2,11,1
+204,Victory,Jinx,Flash,Cleanse,Lethal Tempo,Domination,6,3,3,1
+205,Victory,Samira,Flash,Heal,Conqueror,Domination,10,5,10,1
+206,Victory,Senna,Flash,Heal,Glacial Augment,Domination,6,2,7,1
+207,Victory,Senna,Flash,Heal,Glacial Augment,Domination,7,3,14,1
+208,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,7,0,10,1
+209,Defeat,Varus,Flash,Heal,Hail of Blades,Sorcery,1,8,2,1
+210,Victory,Senna,Flash,Heal,Glacial Augment,Domination,8,4,12,1
+211,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,8,6,7,1
+212,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,7,7,6,1
+213,Defeat,Samira,Flash,Heal,Conqueror,Domination,3,8,2,1
+214,Victory,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,1,8,13,1
+215,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,2,9,5,1
+216,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,11,6,5,1
+217,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,9,0,3,1
+218,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,8,5,3,1
+219,Victory,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,16,4,9,1
+220,Defeat,Aphelios,Flash,Heal,Conqueror,Domination,5,8,3,1
+221,Defeat,Jinx,Flash,Heal,Conqueror,Inspiration,3,9,6,1
+222,Victory,Twitch,Flash,Ignite,Hail of Blades,Precision,1,8,11,1
+223,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,5,3,5,1
+224,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,13,3,6,1
+225,Victory,Aphelios,Flash,Heal,Conqueror,Domination,6,3,6,1
+226,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,5,0,4,1
+227,Defeat,Jinx,Flash,Cleanse,Lethal Tempo,Domination,1,7,2,1
+228,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,8,8,11,1
+229,Defeat,Senna,Flash,Heal,Glacial Augment,Domination,2,4,1,1
+230,Victory,Senna,Flash,Heal,Glacial Augment,Domination,5,5,14,1
+231,Victory,Samira,Flash,Heal,Conqueror,Domination,4,2,2,1
+232,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,7,4,3,1
+233,Victory,Jhin,Flash,Cleanse,Fleet Footwork,Inspiration,6,2,13,1
+234,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,0,4,2,1
+235,Defeat,Senna,Flash,Heal,Glacial Augment,Precision,1,11,10,1
+236,Victory,Varus,Flash,Heal,Hail of Blades,Inspiration,4,1,10,1
+237,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,5,5,13,1
+238,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,1,8,5,1
+239,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,17,12,13,1
+240,Victory,Samira,Flash,Heal,Conqueror,Domination,17,5,8,1
+241,Defeat,Senna,Flash,Heal,Glacial Augment,Domination,18,12,12,1
+242,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,1,5,0,1
+243,Defeat,Varus,Flash,Heal,Hail of Blades,Inspiration,3,8,4,1
+244,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Precision,3,4,4,1
+245,Defeat,Senna,Flash,Heal,Glacial Augment,Domination,1,7,4,1
+246,Victory,Varus,Flash,Teleport,Arcane Comet,Inspiration,10,4,6,1
+247,Defeat,Galio,Flash,Ignite,Aftershock,Sorcery,0,7,5,1
+248,Defeat,Senna,Flash,Heal,Glacial Augment,Domination,4,5,5,1
+249,Defeat,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,2,8,11,1
+250,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,4,0,4,1
+251,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,2,10,1,1
+252,Defeat,Varus,Flash,Heal,Arcane Comet,Inspiration,1,7,5,1
+253,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,5,1,2,1
+254,Victory,Varus,Flash,Heal,Hail of Blades,Inspiration,8,6,16,1
+255,Defeat,Aphelios,Flash,Heal,Conqueror,Domination,4,5,0,1
+256,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,8,8,6,1
+257,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,4,2,3,1
+258,Defeat,Senna,Flash,Heal,Glacial Augment,Domination,4,6,11,1
+259,Defeat,Samira,Flash,Heal,Conqueror,Domination,2,6,1,1
+260,Victory,Nautilus,Flash,Ignite,Aftershock,Inspiration,1,7,14,1
+261,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,9,2,13,1
+262,Defeat,Xin Zhao,Flash,Smite,Phase Rush,Precision,2,5,0,1
+263,Victory,Varus,Flash,Cleanse,Hail of Blades,Inspiration,6,5,8,1
+264,Defeat,Varus,Flash,Teleport,Arcane Comet,Inspiration,7,5,7,1
+265,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,3,3,5,1
+266,Victory,Senna,Flash,Heal,Glacial Augment,Domination,2,2,7,1
+267,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,11,4,6,1
+268,Defeat,Samira,Flash,Heal,Conqueror,Domination,0,3,1,1
+269,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,10,1,3,1
+270,Victory,Varus,Flash,Heal,Arcane Comet,Inspiration,4,1,3,1
+271,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,5,7,1,1
+272,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,6,6,13,1
+273,Defeat,Varus,Flash,Heal,Lethal Tempo,Inspiration,1,3,3,1
+274,Victory,Rell,Flash,Ignite,Aftershock,Inspiration,2,6,16,1
+275,Victory,Senna,Flash,Heal,Glacial Augment,Domination,10,5,8,1
+276,Victory,Senna,Flash,Heal,Glacial Augment,Domination,1,1,11,1
+277,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,11,5,16,1
+278,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,6,2,8,1
+279,Victory,Jinx,Flash,Heal,Conqueror,Domination,7,1,7,1
+280,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,1,5,2,1
+281,Victory,Jinx,Flash,Cleanse,Lethal Tempo,Domination,10,7,14,1
+282,Defeat,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,4,10,3,1
+283,Defeat,Gnar,Flash,Teleport,Grasp of the Undying,Domination,0,7,9,1
+284,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,5,8,2,1
+285,Victory,Senna,Flash,Heal,Glacial Augment,Domination,3,2,5,1
+286,Victory,Varus,Flash,Heal,Lethal Tempo,Domination,7,9,10,1
+287,Defeat,Samira,Flash,Heal,Conqueror,Domination,5,10,4,1
+288,Defeat,Jinx,Flash,Heal,Conqueror,Domination,0,6,1,1
+289,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,19,2,6,1
+290,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,6,1,5,1
+291,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,8,0,6,1
+292,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,1,5,3,1
+293,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,12,4,8,1
+294,Victory,Samira,Flash,Heal,Conqueror,Domination,14,2,6,1
+295,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,7,6,9,1
+296,Victory,Jinx,Flash,Heal,Conqueror,Domination,13,3,4,1
+297,Victory,Varus,Flash,Cleanse,Lethal Tempo,Inspiration,18,6,9,1
+298,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,12,7,13,1
+299,Defeat,Senna,Flash,Heal,Glacial Augment,Domination,7,16,6,1
+300,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,6,7,3,1
+301,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,9,2,8,1
+302,Defeat,Samira,Flash,Heal,Conqueror,Domination,0,13,1,1
+303,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,11,3,6,1
+304,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,10,8,6,1
+305,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,16,9,15,1
+306,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,2,3,2,1
+307,Victory,Varus,Flash,Heal,Lethal Tempo,Inspiration,16,9,14,1
+308,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,4,4,5,1
+309,Defeat,Varus,Flash,Heal,Lethal Tempo,Inspiration,0,0,0,1
+310,Defeat,Ezreal,Flash,Heal,Conqueror,Inspiration,0,7,3,1
+311,Defeat,Varus,Flash,Heal,Arcane Comet,Inspiration,4,5,2,1
+312,Victory,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,2,2,5,1
+313,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,5,6,3,1
+314,Defeat,Varus,Flash,Heal,Arcane Comet,Inspiration,1,7,3,1
+315,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,5,7,7,1
+316,Victory,Cho'Gath,Flash,Teleport,Grasp of the Undying,Inspiration,2,6,8,1
+317,Defeat,Varus,Flash,Heal,Arcane Comet,Inspiration,2,9,9,1
+318,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,2,0,3,1
+319,Defeat,Vi,Flash,Smite,Conqueror,Domination,0,3,2,1
+320,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,13,6,5,1
+321,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,2,8,2,1
+322,Defeat,Graves,Flash,Smite,Phase Rush,Precision,5,1,1,1
+323,Defeat,Draven,Flash,Exhaust,Hail of Blades,Inspiration,0,3,0,1
+324,Defeat,Samira,Flash,Heal,Conqueror,Domination,4,4,2,1
+325,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,5,2,13,1
+326,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,6,1,3,1
+327,Victory,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,13,4,3,1
+328,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,1,5,1,1
+329,Victory,Senna,Flash,Heal,Glacial Augment,Domination,7,7,11,1
+330,Defeat,Viego,Flash,Teleport,Conqueror,Domination,1,6,1,1
+331,Victory,Samira,Flash,Heal,Conqueror,Domination,10,12,10,1
+332,Defeat,Kai'Sa,Flash,Exhaust,Hail of Blades,Inspiration,2,5,3,1
+333,Defeat,Jinx,Flash,Cleanse,Lethal Tempo,Domination,7,6,7,1
+334,Victory,Varus,Flash,Cleanse,Arcane Comet,Inspiration,3,1,7,1
+335,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,4,1,2,1
+336,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,4,7,3,1
+337,Victory,Aphelios,Flash,Cleanse,Conqueror,Domination,6,1,7,1
+338,Defeat,Jinx,Flash,Exhaust,Conqueror,Domination,0,4,1,1
+339,Defeat,Jinx,Flash,Cleanse,Lethal Tempo,Inspiration,0,8,0,1
+340,Defeat,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,5,8,12,1
+341,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,5,0,7,1
+342,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,6,4,2,1
+343,Victory,Jinx,Flash,Cleanse,Lethal Tempo,Domination,4,1,7,1
+344,Victory,Jhin,Flash,Cleanse,Fleet Footwork,Sorcery,6,3,10,1
+345,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,4,6,0,1
+346,Victory,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,4,5,13,1
+347,Victory,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,8,8,17,1
+348,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,4,9,7,1
+349,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,0,5,4,1
+350,Victory,Jinx,Flash,Cleanse,Lethal Tempo,Domination,4,1,8,1
+351,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,5,6,12,1
+352,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,5,4,6,1
+353,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,8,9,4,1
+354,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,4,0,1,1
+355,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,5,3,3,1
+356,Victory,Samira,Flash,Heal,Conqueror,Domination,11,3,10,1
+357,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,8,4,7,1
+358,Victory,Jinx,Flash,Cleanse,Conqueror,Domination,11,8,11,1
+359,Defeat,Ezreal,Flash,Exhaust,Conqueror,Inspiration,1,3,0,1
+360,Victory,Varus,Flash,Heal,Arcane Comet,Inspiration,6,1,6,1
+361,Victory,Kai'Sa,Flash,Exhaust,Hail of Blades,Inspiration,4,0,3,1
+362,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,5,5,7,1
+363,Defeat,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,4,4,6,1
+364,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,7,6,10,1
+365,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,2,2,0,1
+366,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,6,1,3,1
+367,Victory,Kalista,Flash,Cleanse,Hail of Blades,Inspiration,14,3,8,1
+368,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,13,5,15,1
+369,Victory,Varus,Flash,Heal,Arcane Comet,Inspiration,3,4,5,1
+370,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,11,5,1,1
+371,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,13,4,4,1
+372,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,6,12,2,1
+373,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,19,8,12,1
+374,Defeat,Jhin,Flash,Heal,Fleet Footwork,Sorcery,15,7,9,1
+375,Victory,Twitch,Flash,Heal,Hail of Blades,Precision,11,13,6,1
+376,Victory,Twitch,Flash,Heal,Lethal Tempo,Domination,15,2,3,1
+377,Victory,Lucian,Flash,Heal,Press the Attack,Domination,5,5,5,1
+378,Victory,Vi,Flash,Smite,Conqueror,Domination,7,4,12,1
+379,Victory,Fiora,Flash,Teleport,Conqueror,Domination,19,2,3,1
+380,Defeat,Viego,Flash,Teleport,Conqueror,Domination,5,10,0,1
+381,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,4,1,9,1
+382,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,8,2,5,1
+383,Victory,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,3,1,6,1
+384,Victory,Pantheon,Flash,Mark,Dark Harvest,Resolve,16,9,31,1
+385,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,3,5,2,1
+386,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,3,6,8,1
+387,Victory,Jinx,Flash,Cleanse,Conqueror,Domination,5,1,0,1
+388,Defeat,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,3,2,2,1
+389,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,18,7,7,1
+390,Defeat,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,4,5,5,1
+391,Victory,Jinx,Flash,Heal,Conqueror,Domination,14,5,2,1
+392,Victory,Senna,Flash,Cleanse,Glacial Augment,Domination,2,0,10,1
+393,Victory,Jinx,Flash,Cleanse,Conqueror,Domination,12,4,7,1
+394,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,8,10,9,1
+395,Remake,Varus,Flash,Heal,Arcane Comet,Inspiration,0,0,0,1
+396,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,3,7,3,1
+397,Victory,Jinx,Flash,Heal,Conqueror,Domination,10,1,6,1
+398,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,1,5,1,1
+399,Victory,Samira,Flash,Heal,Conqueror,Domination,8,2,9,1
+400,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,11,4,17,1
+401,Defeat,Varus,Flash,Heal,Lethal Tempo,Inspiration,3,7,9,1
+402,Defeat,Aphelios,Flash,Heal,Conqueror,Domination,1,9,14,1
+403,Victory,Xin Zhao,Flash,Cleanse,Phase Rush,Inspiration,5,9,9,1
+404,Victory,Xin Zhao,Flash,Smite,Phase Rush,Precision,10,7,15,1
+405,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,17,4,4,1
+406,Victory,Varus,Flash,Heal,Arcane Comet,Inspiration,6,0,2,1
+407,Victory,Xin Zhao,Flash,Teleport,Phase Rush,Inspiration,7,8,8,1
+408,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,1,6,1,1
+409,Victory,Jinx,Flash,Heal,Conqueror,Domination,13,3,10,1
+410,Victory,Senna,Flash,Cleanse,Glacial Augment,Domination,2,1,7,1
+411,Defeat,Xayah,Flash,Cleanse,Lethal Tempo,Domination,5,8,8,1
+412,Victory,Jinx,Flash,Cleanse,Conqueror,Domination,9,0,10,1
+413,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,13,5,9,1
+414,Defeat,Lee Sin,Flash,Smite,Conqueror,Sorcery,0,6,1,1
+415,Defeat,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,9,11,10,1
+416,Victory,Senna,Flash,Heal,Glacial Augment,Domination,13,7,17,1
+417,Defeat,Jayce,Flash,Teleport,Electrocute,Inspiration,3,9,0,1
+418,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,5,6,6,1
+419,Defeat,Jinx,Flash,Cleanse,Lethal Tempo,Inspiration,7,8,9,1
+420,Victory,Jinx,Flash,Heal,Conqueror,Domination,7,3,12,1
+421,Victory,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,7,3,9,1
+422,Defeat,Senna,Flash,Heal,Glacial Augment,Domination,5,8,6,1
+423,Victory,Jinx,Flash,Cleanse,Conqueror,Inspiration,4,5,2,1
+424,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,12,6,5,1
+425,Victory,Ezreal,Flash,Cleanse,Conqueror,Inspiration,14,4,7,1
+426,Defeat,Jayce,Flash,Teleport,Conqueror,Inspiration,5,6,1,1
+427,Victory,Jinx,Flash,Cleanse,Conqueror,Inspiration,5,2,9,1
+428,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,7,3,4,1
+429,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,8,5,1,1
+430,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,15,5,9,1
+431,Victory,Jhin,Flash,Heal,Fleet Footwork,Sorcery,6,3,13,1
+432,Victory,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,4,9,14,1
+433,Victory,Varus,Flash,Heal,Arcane Comet,Inspiration,7,5,15,1
+434,Defeat,Urgot,Flash,Teleport,Press the Attack,Resolve,2,7,1,1
+435,Defeat,Senna,Flash,Cleanse,Glacial Augment,Domination,2,8,8,1
+436,Victory,Jinx,Flash,Heal,Conqueror,Inspiration,11,7,9,1
+437,Victory,Urgot,Flash,Teleport,Press the Attack,Resolve,3,3,3,1
+438,Defeat,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,6,6,4,1
+439,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,6,1,2,1
+440,Victory,Senna,Flash,Heal,Glacial Augment,Domination,4,2,7,1
+441,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,8,0,0,1
+442,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,6,6,1,1
+443,Defeat,Lillia,Flash,Smite,Dark Harvest,Inspiration,1,7,9,1
+444,Victory,Varus,Flash,Heal,Arcane Comet,Inspiration,4,2,4,1
+445,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,10,5,5,1
+446,Defeat,Jinx,Flash,Cleanse,Conqueror,Inspiration,10,7,8,1
+447,Defeat,Aphelios,Flash,Cleanse,Conqueror,Domination,0,7,0,1
+448,Victory,Jinx,Flash,Cleanse,Lethal Tempo,Inspiration,8,6,12,1
+449,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,8,10,4,1
+450,Victory,Jinx,Flash,Heal,Conqueror,Domination,13,1,6,1
+451,Victory,Varus,Flash,Cleanse,Arcane Comet,Inspiration,6,8,7,1
+452,Victory,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,10,3,10,1
+453,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,4,7,0,1
+454,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,6,7,0,1
+455,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,7,5,8,1
+456,Victory,Senna,Flash,Heal,Glacial Augment,Domination,7,3,16,1
+457,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,14,1,5,1
+458,Victory,Lucian,Flash,Heal,Press the Attack,Inspiration,14,7,12,1
+459,Victory,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,5,3,7,1
+460,Defeat,Cho'Gath,Flash,Teleport,Grasp of the Undying,Precision,6,7,4,1
+461,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,16,3,10,1
+462,Defeat,Draven,Flash,Heal,Hail of Blades,Inspiration,6,6,5,1
+463,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,19,3,5,1
+464,Defeat,Jinx,Flash,Cleanse,Lethal Tempo,Inspiration,9,8,4,1
+465,Defeat,Draven,Flash,Heal,Hail of Blades,Inspiration,1,12,2,1
+466,Victory,Aphelios,Flash,Heal,Conqueror,Domination,5,3,2,1
+467,Victory,Jinx,Flash,Cleanse,Lethal Tempo,Inspiration,2,4,4,1
+468,Victory,Rek'Sai,Flash,Smite,Conqueror,Sorcery,8,4,4,1
+469,Victory,Jinx,Flash,Heal,Lethal Tempo,Inspiration,1,3,10,1
+470,Defeat,Draven,Flash,Heal,Hail of Blades,Inspiration,1,7,0,1
+471,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,11,7,8,1
+472,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,3,8,3,1
+473,Defeat,Aphelios,Flash,Heal,Conqueror,Domination,0,11,5,1
+474,Victory,Jinx,Flash,Heal,Lethal Tempo,Inspiration,9,1,6,1
+475,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,4,6,13,1
+476,Victory,Draven,Flash,Heal,Hail of Blades,Inspiration,6,5,11,1
+477,Defeat,Viego,Flash,Ignite,Conqueror,Domination,2,6,7,1
+478,Defeat,Viego,Flash,Teleport,Conqueror,Domination,9,6,9,1
+479,Defeat,Draven,Flash,Heal,Hail of Blades,Inspiration,8,7,5,1
+480,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,6,9,6,1
+481,Victory,Draven,Flash,Heal,Hail of Blades,Inspiration,6,4,12,1
+482,Defeat,Draven,Flash,Cleanse,Hail of Blades,Inspiration,3,10,2,1
+483,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,4,1,4,1
+484,Victory,Jinx,Flash,Heal,Lethal Tempo,Inspiration,12,6,9,1
+485,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,10,5,6,1
+486,Victory,Nidalee,Flash,Smite,Dark Harvest,Sorcery,7,4,11,1
+487,Defeat,Draven,Flash,Heal,Hail of Blades,Inspiration,1,5,2,1
+488,Victory,Jinx,Flash,Heal,Lethal Tempo,Inspiration,3,0,0,1
+489,Defeat,Aatrox,Flash,Teleport,Conqueror,Resolve,5,6,2,1
+490,Defeat,Jinx,Flash,Heal,Conqueror,Domination,2,8,8,1
+491,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,5,8,1,1
+492,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,11,8,3,1
+493,Victory,Jinx,Flash,Cleanse,Conqueror,Inspiration,4,6,13,1
+494,Victory,Varus,Flash,Heal,Arcane Comet,Inspiration,8,5,16,1
+495,Defeat,Jinx,Flash,Cleanse,Conqueror,Inspiration,4,10,6,1
+496,Victory,Tristana,Flash,Teleport,Hail of Blades,Precision,4,3,4,1
+497,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,8,7,3,1
+498,Defeat,Viktor,Flash,Teleport,Phase Rush,Inspiration,0,7,1,1
+499,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,16,6,11,1
+500,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,11,9,8,1
+501,Defeat,Jinx,Flash,Heal,Conqueror,Domination,4,4,5,1
+502,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,9,8,3,1
+503,Victory,Draven,Flash,Heal,Hail of Blades,Inspiration,2,0,6,1
+504,Defeat,Jhin,Flash,Heal,Fleet Footwork,Sorcery,0,4,2,1
+505,Defeat,Ezreal,Flash,Heal,Conqueror,Inspiration,5,15,13,1
+506,Victory,Jinx,Flash,Cleanse,Conqueror,Domination,6,0,1,1
+507,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,4,9,2,1
+508,Defeat,Draven,Flash,Cleanse,Hail of Blades,Precision,1,8,1,1
+509,Defeat,Vayne,Flash,Cleanse,Press the Attack,Domination,3,8,6,1
+510,Defeat,Varus,Flash,Heal,Arcane Comet,Inspiration,3,7,2,1
+511,Defeat,Jhin,Flash,Heal,Fleet Footwork,Sorcery,9,5,10,1
+512,Victory,Gnar,Flash,Teleport,Grasp of the Undying,Domination,3,8,12,1
+513,Victory,Kalista,Flash,Heal,Hail of Blades,Inspiration,13,1,3,1
+514,Victory,Jhin,Flash,Cleanse,Fleet Footwork,Sorcery,8,2,8,1
+515,Defeat,Sivir,Flash,Heal,Dark Harvest,Sorcery,9,6,4,1
+516,Defeat,Jinx,Flash,Cleanse,Conqueror,Domination,3,5,3,1
+517,Victory,Aphelios,Flash,Cleanse,Conqueror,Domination,22,3,5,1
+518,Defeat,Jinx,Flash,Heal,Lethal Tempo,Inspiration,13,7,12,1
+519,Victory,Draven,Flash,Heal,Hail of Blades,Precision,8,5,9,1
+520,Victory,Draven,Flash,Teleport,Hail of Blades,Precision,4,7,1,1
+521,Defeat,Kai'Sa,Flash,Cleanse,Hail of Blades,Precision,8,6,5,1
+522,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,1,4,1,1
+523,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,5,2,4,1
+524,Victory,Senna,Flash,Cleanse,Glacial Augment,Precision,5,4,10,1
+525,Defeat,Varus,Flash,Heal,Arcane Comet,Inspiration,4,9,4,1
+526,Victory,Varus,Flash,Heal,Arcane Comet,Inspiration,11,7,11,1
+527,Victory,Varus,Flash,Cleanse,Arcane Comet,Inspiration,4,4,5,1
+528,Victory,Varus,Flash,Heal,Arcane Comet,Inspiration,5,1,3,1
+529,Victory,Jinx,Flash,Cleanse,Conqueror,Domination,4,5,6,1
+530,Victory,Vayne,Flash,Heal,Press the Attack,Domination,12,6,5,1
+531,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,2,6,3,1
+532,Defeat,Jinx,Flash,Heal,Conqueror,Domination,1,8,4,1
+533,Victory,Gangplank,Flash,Teleport,Grasp of the Undying,Inspiration,6,11,5,1
+534,Victory,Kalista,Flash,Heal,Hail of Blades,Inspiration,6,2,8,1
+535,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,5,2,5,1
+536,Victory,Jhin,Flash,Heal,Fleet Footwork,Sorcery,11,6,7,1
+537,Victory,Jhin,Flash,Heal,Fleet Footwork,Sorcery,8,3,10,1
+538,Defeat,Rell,Flash,Ignite,Aftershock,Inspiration,1,14,11,1
+539,Victory,Jinx,Flash,Cleanse,Conqueror,Domination,4,3,2,1
+540,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,4,6,8,1
+541,Victory,Jinx,Flash,Cleanse,Conqueror,Domination,2,3,6,1
+542,Victory,Kalista,Flash,Heal,Hail of Blades,Inspiration,13,8,14,1
+543,Defeat,Senna,Flash,Heal,Glacial Augment,Precision,1,5,5,1
+544,Victory,Jinx,Flash,Cleanse,Conqueror,Domination,5,2,3,1
+545,Defeat,Tristana,Flash,Cleanse,Hail of Blades,Precision,4,9,2,1
+546,Victory,Tristana,Flash,Cleanse,Hail of Blades,Precision,5,5,13,1
+547,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,9,9,10,1
+548,Defeat,Jinx,Flash,Heal,Conqueror,Domination,2,5,7,1
+549,Defeat,Jinx,Flash,Heal,Conqueror,Domination,1,6,7,1
+550,Victory,Jinx,Flash,Heal,Conqueror,Domination,8,1,1,1
+551,Defeat,Jinx,Flash,Heal,Conqueror,Domination,1,7,4,1
+552,Victory,Jinx,Flash,Heal,Conqueror,Domination,12,3,7,1
+553,Victory,Jinx,Flash,Heal,Conqueror,Domination,6,4,11,1
+554,Victory,Jinx,Flash,Heal,Conqueror,Domination,5,3,7,1
+555,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,7,7,3,1
+556,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,9,3,5,1
+557,Victory,Jinx,Flash,Heal,Conqueror,Domination,4,4,11,1
+558,Defeat,Jinx,Flash,Heal,Conqueror,Domination,0,4,3,1
+559,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,8,8,6,1
+560,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,4,9,6,1
+561,Victory,Jinx,Flash,Cleanse,Conqueror,Domination,6,1,4,1
+562,Defeat,Aphelios,Flash,Heal,Conqueror,Domination,3,11,9,1
+563,Victory,Senna,Flash,Heal,Glacial Augment,Precision,5,0,9,1
+564,Defeat,Miss Fortune,Flash,Exhaust,Press the Attack,Domination,0,8,4,1
+565,Defeat,Jinx,Flash,Heal,Conqueror,Domination,6,7,12,1
+566,Defeat,Jinx,Flash,Cleanse,Conqueror,Domination,3,7,1,1
+567,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,7,4,10,1
+568,Defeat,Jinx,Flash,Heal,Conqueror,Domination,7,7,7,1
+569,Defeat,Jinx,Flash,Cleanse,Conqueror,Domination,3,5,5,1
+570,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,0,1,1,1
+571,Victory,Jinx,Flash,Heal,Conqueror,Domination,5,0,2,1
+572,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,11,11,9,1
+573,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,13,11,11,1
+574,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,18,6,14,1
+575,Victory,Jhin,Flash,Cleanse,Fleet Footwork,Inspiration,6,1,6,1
+576,Victory,Ziggs,Flash,Teleport,Arcane Comet,Inspiration,11,6,8,1
+577,Defeat,Aphelios,Flash,Cleanse,Conqueror,Domination,7,8,3,1
+578,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,7,1,2,1
+579,Victory,Lillia,Flash,Smite,Dark Harvest,Inspiration,2,1,8,1
+580,Victory,Aphelios,Flash,Heal,Conqueror,Domination,9,3,7,1
+581,Defeat,Aphelios,Flash,Heal,Conqueror,Domination,3,10,1,1
+582,Victory,Renekton,Flash,Teleport,Conqueror,Resolve,9,3,9,1
+583,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,5,1,11,1
+584,Defeat,Ezreal,Flash,Heal,Conqueror,Inspiration,9,6,9,1
+585,Victory,Jinx,Flash,Heal,Conqueror,Domination,7,3,6,1
+586,Victory,Kalista,Flash,Heal,Hail of Blades,Inspiration,14,7,5,1
+587,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,10,0,4,1
+588,Defeat,Jinx,Flash,Cleanse,Conqueror,Domination,3,8,1,1
+589,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,4,5,1,1
+590,Victory,Jinx,Flash,Heal,Conqueror,Domination,5,3,8,1
+591,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,11,2,8,1
+592,Victory,Jinx,Flash,Heal,Conqueror,Domination,12,2,12,1
+593,Victory,Rek'Sai,Flash,Smite,Hail of Blades,Sorcery,17,2,4,1
+594,Victory,Gnar,Flash,Teleport,Grasp of the Undying,Domination,6,6,9,1
+595,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,6,7,4,1
+596,Defeat,Kog'Maw,Flash,Barrier,Lethal Tempo,Domination,8,7,8,1
+597,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,5,1,8,1
+598,Victory,Gragas,Flash,Teleport,Grasp of the Undying,Inspiration,2,4,4,1
+599,Defeat,Kog'Maw,Flash,Heal,Lethal Tempo,Domination,11,5,2,1
+600,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,7,4,3,1
+601,Victory,Senna,Flash,Heal,Glacial Augment,Precision,9,6,15,1
+602,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,20,4,5,1
+603,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,12,8,7,1
+604,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,13,3,9,1
+605,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,12,6,5,1
+606,Victory,Sivir,Flash,Heal,Dark Harvest,Sorcery,6,2,11,1
+607,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,5,1,9,1
+608,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,5,4,8,1
+609,Defeat,Ezreal,Flash,Heal,Conqueror,Inspiration,5,6,5,1
+610,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,7,10,6,1
+611,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,10,4,5,1
+612,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,2,9,10,1
+613,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,15,7,10,1
+614,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,3,3,4,1
+615,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,1,0,2,1
+616,Defeat,Azir,Flash,Teleport,Arcane Comet,Inspiration,0,5,3,1
+617,Defeat,Draven,Flash,Heal,Hail of Blades,Precision,1,5,3,1
+618,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,6,3,4,1
+619,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,7,1,10,1
+620,Victory,Jinx,Flash,Cleanse,Lethal Tempo,Domination,22,14,14,1
+621,Victory,Kalista,Flash,Heal,Hail of Blades,Inspiration,8,1,5,1
+622,Victory,Kalista,Flash,Heal,Hail of Blades,Inspiration,9,1,11,1
+623,Defeat,Ezreal,Flash,Heal,Conqueror,Inspiration,0,7,2,1
+624,Victory,Vayne,Flash,Heal,Press the Attack,Domination,14,6,3,1
+625,Victory,Jinx,Flash,Cleanse,Lethal Tempo,Domination,4,6,9,1
+626,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Precision,3,8,2,1
+627,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,4,2,4,1
+628,Victory,Sion,Flash,Teleport,Grasp of the Undying,Inspiration,2,2,7,1
+629,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,7,3,7,1
+630,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,6,3,8,1
+631,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,2,4,2,1
+632,Defeat,Ryze,Flash,Teleport,Phase Rush,Domination,2,10,0,1
+633,Victory,Aphelios,Flash,Heal,Conqueror,Domination,2,1,5,1
+634,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,7,9,3,1
+635,Victory,Kalista,Flash,Heal,Hail of Blades,Inspiration,7,1,5,1
+636,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,6,1,6,1
+637,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,6,8,5,1
+638,Defeat,Vayne,Flash,Teleport,Press the Attack,Domination,4,10,5,1
+639,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,2,11,12,1
+640,Defeat,Rek'Sai,Flash,Smite,Hail of Blades,Sorcery,7,9,6,1
+641,Victory,Sivir,Flash,Heal,Dark Harvest,Sorcery,5,3,12,1
+642,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,6,9,4,1
+643,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,9,1,11,1
+644,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,6,1,4,1
+645,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,11,3,2,1
+646,Defeat,Draven,Flash,Exhaust,Hail of Blades,Precision,9,12,7,1
+647,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,4,2,5,1
+648,Victory,Xayah,Flash,Heal,Lethal Tempo,Domination,8,4,5,1
+649,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,5,1,6,1
+650,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,5,8,3,1
+651,Victory,Sivir,Flash,Teleport,Dark Harvest,Sorcery,11,5,18,1
+652,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,9,4,3,1
+653,Defeat,Viego,Flash,Smite,Conqueror,Domination,2,4,0,1
+654,Defeat,Senna,Flash,Heal,Grasp of the Undying,Precision,4,12,20,1
+655,Victory,Senna,Flash,Heal,Glacial Augment,Precision,8,3,8,1
+656,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,7,4,1,1
+657,Defeat,Ezreal,Flash,Heal,Conqueror,Inspiration,2,5,2,1
+658,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,2,6,0,1
+659,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,6,1,4,1
+660,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,5,3,5,1
+661,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,14,8,4,1
+662,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,5,6,3,1
+663,Defeat,Pyke,Flash,Ignite,Hail of Blades,Inspiration,1,5,4,1
+664,Victory,Senna,Flash,Teleport,Glacial Augment,Precision,7,5,11,1
+665,Victory,Vayne,Flash,Heal,Press the Attack,Domination,9,2,7,1
+666,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,4,7,1,1
+667,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,6,6,7,1
+668,Victory,Jinx,Flash,Cleanse,Lethal Tempo,Domination,12,7,12,1
+669,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,10,9,7,1
+670,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,10,2,9,1
+671,Victory,Ezreal,Flash,Teleport,Conqueror,Sorcery,9,3,11,1
+672,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,4,9,5,1
+673,Victory,Sivir,Flash,Teleport,Dark Harvest,Sorcery,14,8,14,1
+674,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,11,4,2,1
+675,Victory,Nautilus,Flash,Exhaust,Aftershock,Inspiration,2,9,24,1
+676,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,11,3,7,1
+677,Victory,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,7,4,4,1
+678,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,6,5,4,1
+679,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,6,10,4,1
+680,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,13,5,6,1
+681,Victory,Senna,Flash,Teleport,Glacial Augment,Precision,3,6,11,1
+682,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,5,10,8,1
+683,Victory,Kalista,Flash,Heal,Hail of Blades,Inspiration,3,0,0,1
+684,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,3,3,6,1
+685,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,4,5,17,1
+686,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,4,12,5,1
+687,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,3,9,2,1
+688,Defeat,Aphelios,Flash,Heal,Conqueror,Domination,4,9,8,1
+689,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,12,7,11,1
+690,Defeat,Viego,Flash,Teleport,Fleet Footwork,Domination,2,7,6,1
+691,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,13,2,5,1
+692,Defeat,Rell,Flash,Ignite,Aftershock,Inspiration,2,10,9,1
+693,Victory,Sivir,Flash,Teleport,Dark Harvest,Sorcery,12,10,14,1
+694,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,6,2,7,1
+695,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,3,8,3,1
+696,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,0,7,9,1
+697,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,12,2,5,1
+698,Victory,Aphelios,Flash,Heal,Lethal Tempo,Domination,8,3,6,1
+699,Victory,Vayne,Flash,Heal,Press the Attack,Domination,7,2,1,1
+700,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,12,2,12,1
+701,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,7,3,4,1
+702,Victory,Vayne,Flash,Heal,Press the Attack,Domination,8,1,1,1
+703,Defeat,Senna,Flash,Heal,Glacial Augment,Precision,1,4,0,1
+704,Defeat,Senna,Flash,Heal,Glacial Augment,Precision,4,8,5,1
+705,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,6,0,4,1
+706,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,3,6,1,1
+707,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,1,11,2,1
+708,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,8,3,3,1
+709,Defeat,Jinx,Flash,Cleanse,Lethal Tempo,Domination,1,11,8,1
+710,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,6,2,9,1
+711,Defeat,Jinx,Flash,Heal,Lethal Tempo,Domination,6,6,4,1
+712,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,2,0,4,1
+713,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,2,9,1,1
+714,Defeat,Xayah,Flash,Heal,Lethal Tempo,Domination,7,3,5,1
+715,Defeat,Rell,Flash,Ignite,Aftershock,Inspiration,1,10,8,1
+716,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,10,7,8,1
+717,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,2,7,6,1
+718,Defeat,Jinx,Flash,Heal,Lethal Tempo,Sorcery,8,7,3,1
+719,Victory,Samira,Flash,Heal,Conqueror,Domination,20,2,2,1
+720,Victory,Gragas,Flash,Ignite,Phase Rush,Inspiration,6,3,9,1
+721,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,0,10,2,1
+722,Victory,Jinx,Flash,Cleanse,Lethal Tempo,Sorcery,5,4,10,1
+723,Defeat,Draven,Flash,Heal,Hail of Blades,Precision,0,6,3,1
+724,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,0,5,0,1
+725,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,5,8,8,1
+726,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,4,2,8,1
+727,Defeat,Jinx,Flash,Heal,Lethal Tempo,Sorcery,2,6,5,1
+728,Defeat,Samira,Flash,Heal,Conqueror,Domination,3,6,0,1
+729,Victory,Pyke,Flash,Ignite,Hail of Blades,Inspiration,2,3,10,1
+730,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,14,3,5,1
+731,Victory,Vayne,Flash,Heal,Press the Attack,Domination,18,0,1,1
+732,Victory,Senna,Flash,Exhaust,Glacial Augment,Precision,1,5,6,1
+733,Victory,Senna,Flash,Heal,Glacial Augment,Precision,4,7,13,1
+734,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,7,11,6,1
+735,Defeat,Gnar,Flash,Teleport,Fleet Footwork,Domination,3,10,14,1
+736,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,3,8,4,1
+737,Defeat,Jinx,Flash,Heal,Conqueror,Domination,0,6,1,1
+738,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,8,7,4,1
+739,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,2,8,2,1
+740,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,6,8,7,1
+741,Defeat,Ezreal,Flash,Heal,Conqueror,Inspiration,3,9,5,1
+742,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,2,8,1,1
+743,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,3,9,2,1
+744,Defeat,Jinx,Flash,Heal,Conqueror,Domination,1,10,1,1
+745,Defeat,Vayne,Flash,Cleanse,Press the Attack,Domination,1,5,1,1
+746,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,1,7,4,1
+747,Victory,Vayne,Flash,Cleanse,Press the Attack,Domination,8,3,9,1
+748,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,8,11,6,1
+749,Victory,Jinx,Flash,Heal,Conqueror,Domination,4,5,4,1
+750,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,13,6,10,1
+751,Defeat,Sivir,Flash,Heal,Dark Harvest,Sorcery,8,11,14,1
+752,Victory,Jinx,Flash,Heal,Conqueror,Domination,8,5,6,1
+753,Victory,Jinx,Flash,Heal,Conqueror,Domination,3,0,4,1
+754,Victory,Xayah,Flash,Cleanse,Lethal Tempo,Inspiration,1,1,10,1
+755,Defeat,Ezreal,Flash,Heal,Conqueror,Inspiration,2,13,3,1
+756,Defeat,Senna,Flash,Heal,Glacial Augment,Precision,3,7,7,1
+757,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,8,8,3,1
+758,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,13,0,0,1
+759,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,1,6,8,1
+760,Defeat,Jinx,Flash,Heal,Conqueror,Domination,2,7,3,1
+761,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,3,6,3,1
+762,Defeat,Samira,Flash,Heal,Conqueror,Domination,4,10,8,1
+763,Victory,Jinx,Flash,Heal,Conqueror,Domination,13,6,8,1
+764,Victory,Jinx,Flash,Heal,Conqueror,Domination,13,10,12,1
+765,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,17,2,6,1
+766,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,11,5,9,1
+767,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,4,4,8,1
+768,Defeat,Viego,Flash,Smite,Conqueror,Domination,3,9,8,1
+769,Defeat,Samira,Flash,Heal,Conqueror,Domination,2,4,1,1
+770,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,8,5,6,1
+771,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,11,5,9,1
+772,Victory,Kalista,Flash,Heal,Hail of Blades,Inspiration,5,4,4,1
+773,Defeat,Xayah,Flash,Cleanse,Lethal Tempo,Inspiration,1,6,3,1
+774,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,11,6,5,1
+775,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,11,1,11,1
+776,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,8,4,6,1
+777,Victory,Vayne,Flash,Heal,Press the Attack,Domination,5,2,4,1
+778,Victory,Xayah,Flash,Cleanse,Lethal Tempo,Inspiration,15,4,10,1
+779,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,5,5,16,1
+780,Victory,Samira,Flash,Heal,Conqueror,Domination,30,5,8,1
+781,Defeat,Xayah,Flash,Cleanse,Lethal Tempo,Inspiration,1,2,2,1
+782,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,8,1,1,1
+783,Victory,Vayne,Flash,Cleanse,Press the Attack,Domination,4,6,1,1
+784,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,2,7,8,1
+785,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,10,8,14,1
+786,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,4,7,2,1
+787,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,12,3,9,1
+788,Defeat,Qiyana,Flash,Ignite,Electrocute,Inspiration,15,10,22,1
+789,Victory,Rell,Flash,Mark,Hail of Blades,Precision,4,9,29,1
+790,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,14,5,9,1
+791,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,10,4,13,1
+792,Defeat,Graves,Flash,Smite,Phase Rush,Precision,10,4,6,1
+793,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,3,4,9,1
+794,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,2,5,3,1
+795,Defeat,Ashe,Flash,Heal,Lethal Tempo,Inspiration,6,10,5,1
+796,Defeat,Gnar,Flash,Teleport,Fleet Footwork,Domination,1,4,8,1
+797,Victory,Sivir,Flash,Heal,Lethal Tempo,Sorcery,3,9,6,1
+798,Victory,Aphelios,Flash,Heal,Conqueror,Domination,9,9,12,1
+799,Defeat,Kalista,Flash,Cleanse,Hail of Blades,Inspiration,3,5,1,1
+800,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,8,3,8,1
+801,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,14,9,9,1
+802,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,6,9,1,1
+803,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,9,7,3,1
+804,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,3,1,8,1
+805,Victory,Samira,Flash,Heal,Conqueror,Domination,7,3,1,1
+806,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,3,1,5,1
+807,Defeat,Jayce,Flash,Teleport,Conqueror,Inspiration,1,14,1,1
+808,Victory,Jinx,Flash,Heal,Conqueror,Domination,2,4,5,1
+809,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,7,8,5,1
+810,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,13,4,6,1
+811,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,6,7,3,1
+812,Victory,Kalista,Flash,Heal,Hail of Blades,Inspiration,27,3,4,1
+813,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,3,4,7,1
+814,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,24,6,8,1
+815,Victory,Gnar,Flash,Teleport,Glacial Augment,Domination,1,1,1,1
+816,Defeat,Ezreal,Flash,Ignite,Conqueror,Inspiration,2,7,1,1
+817,Victory,Vayne,Flash,Cleanse,Press the Attack,Domination,6,1,5,1
+818,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,1,2,3,1
+819,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,18,2,7,1
+820,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,7,8,6,1
+821,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,5,4,9,1
+822,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,2,5,8,1
+823,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,9,2,2,1
+824,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,0,4,3,1
+825,Defeat,Aphelios,Flash,Cleanse,Conqueror,Domination,7,9,2,1
+826,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,13,5,4,1
+827,Victory,Xayah,Flash,Cleanse,Lethal Tempo,Inspiration,16,9,17,1
+828,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,9,4,6,1
+829,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,2,7,0,1
+830,Defeat,Samira,Flash,Heal,Conqueror,Domination,0,8,2,1
+831,Victory,Samira,Flash,Heal,Conqueror,Domination,3,2,10,1
+832,Victory,Senna,Flash,Cleanse,Glacial Augment,Precision,9,4,19,1
+833,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,1,6,3,1
+834,Defeat,Samira,Flash,Heal,Conqueror,Domination,7,6,12,1
+835,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,15,2,7,1
+836,Defeat,Ezreal,Flash,Heal,Conqueror,Sorcery,2,7,2,1
+837,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,5,7,1,1
+838,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,3,6,9,1
+839,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,3,2,3,1
+840,Defeat,Gnar,Flash,Teleport,Fleet Footwork,Domination,1,5,0,1
+841,Victory,Vayne,Flash,Heal,Press the Attack,Domination,6,0,5,1
+842,Victory,Xayah,Flash,Cleanse,Lethal Tempo,Inspiration,11,5,8,1
+843,Defeat,Jinx,Flash,Heal,Conqueror,Sorcery,4,4,1,1
+844,Defeat,Jinx,Flash,Cleanse,Lethal Tempo,Domination,5,11,8,1
+845,Victory,Vayne,Flash,Heal,Press the Attack,Domination,3,5,7,1
+846,Defeat,Ezreal,Flash,Heal,Conqueror,Sorcery,12,6,8,1
+847,Victory,Senna,Flash,Cleanse,Glacial Augment,Precision,11,9,14,1
+848,Victory,Senna,Flash,Heal,Glacial Augment,Precision,7,8,13,1
+849,Victory,Ezreal,Flash,Heal,Conqueror,Sorcery,6,4,14,1
+850,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,6,7,10,1
+851,Victory,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,14,3,6,1
+852,Defeat,Samira,Flash,Heal,Conqueror,Domination,1,10,3,1
+853,Defeat,Poppy,Flash,Teleport,Hail of Blades,Inspiration,2,6,1,1
+854,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,3,3,4,1
+855,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,11,9,1,1
+856,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,13,2,4,1
+857,Victory,Vayne,Flash,Cleanse,Press the Attack,Domination,3,1,3,1
+858,Defeat,Senna,Flash,Heal,Glacial Augment,Precision,6,9,8,1
+859,Victory,Kalista,Flash,Heal,Hail of Blades,Inspiration,15,5,10,1
+860,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,0,7,1,1
+861,Defeat,Samira,Flash,Heal,Conqueror,Domination,5,6,5,1
+862,Defeat,Senna,Flash,Heal,Glacial Augment,Precision,0,8,3,1
+863,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,9,3,12,1
+864,Victory,Kalista,Flash,Heal,Hail of Blades,Inspiration,9,3,8,1
+865,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,2,1,1,1
+866,Defeat,Viego,Flash,Teleport,Conqueror,Domination,2,8,2,1
+867,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,4,8,8,1
+868,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,1,8,5,1
+869,Defeat,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,2,1,0,1
+870,Defeat,Xayah,Flash,Cleanse,Lethal Tempo,Inspiration,8,13,3,1
+871,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,6,4,8,1
+872,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,11,7,4,1
+873,Victory,Orianna,Flash,Teleport,Phase Rush,Inspiration,5,2,11,1
+874,Defeat,Samira,Flash,Heal,Conqueror,Domination,2,5,3,1
+875,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,4,5,3,1
+876,Victory,Samira,Flash,Heal,Conqueror,Domination,5,2,4,1
+877,Victory,Miss Fortune,Flash,Cleanse,Press the Attack,Sorcery,5,1,4,1
+878,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,13,6,9,1
+879,Victory,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,21,3,7,1
+880,Victory,Kalista,Flash,Heal,Hail of Blades,Precision,6,1,15,1
+881,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,9,4,8,1
+882,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,15,8,11,1
+883,Defeat,Ezreal,Flash,Heal,Conqueror,Sorcery,4,7,6,1
+884,Victory,Gnar,Flash,Teleport,Fleet Footwork,Domination,1,5,0,1
+885,Defeat,Kalista,Flash,Heal,Hail of Blades,Inspiration,1,10,3,1
+886,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,2,4,6,1
+887,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,0,3,3,1
+888,Victory,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,17,2,9,1
+889,Defeat,Xayah,Flash,Cleanse,Lethal Tempo,Inspiration,2,7,1,1
+890,Defeat,Yone,Flash,Teleport,Fleet Footwork,Domination,4,7,7,1
+891,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,11,8,7,1
+892,Defeat,Lucian,Flash,Heal,Press the Attack,Domination,7,6,9,1
+893,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,22,11,11,1
+894,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,9,0,3,1
+895,Victory,Samira,Flash,Heal,Conqueror,Domination,4,2,5,1
+896,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,1,5,0,1
+897,Victory,Kalista,Flash,Cleanse,Hail of Blades,Inspiration,6,4,8,1
+898,Defeat,Samira,Flash,Heal,Conqueror,Domination,2,5,6,1
+899,Defeat,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,6,8,4,1
+900,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,20,6,2,1
+901,Defeat,Draven,Flash,Heal,Hail of Blades,Inspiration,3,6,3,1
+902,Victory,Kalista,Flash,Heal,Hail of Blades,Inspiration,3,4,11,1
+903,Victory,Kalista,Flash,Heal,Hail of Blades,Inspiration,10,4,4,1
+904,Victory,Kalista,Flash,Heal,Hail of Blades,Inspiration,8,7,10,1
+905,Defeat,Lucian,Flash,Heal,Press the Attack,Inspiration,9,12,11,1
+906,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,5,2,10,1
+907,Defeat,Lucian,Flash,Ignite,Press the Attack,Inspiration,2,5,3,1
+908,Victory,Xayah,Flash,Cleanse,Lethal Tempo,Inspiration,5,5,8,1
+909,Victory,Kalista,Flash,Heal,Hail of Blades,Inspiration,4,4,10,1
+910,Defeat,Kalista,Flash,Cleanse,Hail of Blades,Precision,0,9,2,1
+911,Victory,Vayne,Flash,Heal,Press the Attack,Domination,10,1,6,1
+912,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,6,2,4,1
+913,Victory,Kalista,Flash,Cleanse,Hail of Blades,Precision,5,6,12,1
+914,Victory,Samira,Flash,Heal,Conqueror,Domination,16,0,3,1
+915,Defeat,Kalista,Flash,Heal,Hail of Blades,Precision,0,7,3,1
+916,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,6,3,4,1
+917,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,3,0,6,1
+918,Victory,Kalista,Flash,Heal,Hail of Blades,Precision,7,4,7,1
+919,Victory,Samira,Flash,Heal,Conqueror,Domination,12,7,11,1
+920,Defeat,Kalista,Flash,Heal,Hail of Blades,Precision,6,10,2,1
+921,Defeat,Senna,Flash,Heal,Glacial Augment,Precision,2,6,1,1
+922,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,10,1,2,1
+923,Defeat,Kalista,Flash,Heal,Hail of Blades,Precision,12,5,5,1
+924,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,7,9,5,1
+925,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,10,1,8,1
+926,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,7,8,4,1
+927,Victory,Xayah,Flash,Cleanse,Lethal Tempo,Sorcery,4,6,10,1
+928,Defeat,Lucian,Flash,Heal,Press the Attack,Domination,10,7,4,1
+929,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,12,5,4,1
+930,Defeat,Kalista,Flash,Heal,Hail of Blades,Precision,8,8,16,1
+931,Defeat,Kalista,Flash,Heal,Hail of Blades,Precision,7,7,11,1
+932,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,2,4,9,1
+933,Defeat,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,4,13,3,1
+934,Victory,Samira,Flash,Heal,Conqueror,Domination,7,1,6,1
+935,Victory,Samira,Flash,Heal,Conqueror,Domination,10,1,5,1
+936,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,1,8,0,1
+937,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,4,8,3,1
+938,Victory,Ezreal,Flash,Cleanse,Lethal Tempo,Inspiration,2,3,5,1
+939,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,1,1,1,1
+940,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,4,8,4,1
+941,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,4,3,4,1
+942,Remake,Xayah,Flash,Heal,Lethal Tempo,Inspiration,0,0,2,1
+943,Victory,Samira,Flash,Heal,Conqueror,Domination,7,2,10,1
+944,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,4,3,6,1
+945,Defeat,Ezreal,Flash,Heal,Lethal Tempo,Inspiration,1,11,2,1
+946,Victory,Xayah,Flash,Heal,Hail of Blades,Precision,13,5,5,1
+947,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,2,1,4,1
+948,Defeat,Samira,Flash,Heal,Conqueror,Domination,13,8,5,1
+949,Defeat,Vayne,Flash,Cleanse,Press the Attack,Domination,15,8,3,1
+950,Defeat,Xayah,Flash,Heal,Lethal Tempo,Domination,4,7,7,1
+951,Victory,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,12,2,4,1
+952,Victory,Senna,Flash,Heal,Glacial Augment,Precision,2,3,5,1
+953,Defeat,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,3,7,5,1
+954,Victory,Vayne,Flash,Heal,Press the Attack,Domination,14,10,12,1
+955,Victory,Aphelios,Flash,Cleanse,Conqueror,Domination,16,5,3,1
+956,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,13,8,8,1
+957,Defeat,Xayah,Flash,Heal,Hail of Blades,Precision,6,8,4,1
+958,Victory,Ezreal,Flash,Heal,Lethal Tempo,Sorcery,4,9,9,1
+959,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,13,6,4,1
+960,Victory,Samira,Flash,Cleanse,Conqueror,Domination,5,1,6,1
+961,Victory,Vayne,Flash,Heal,Press the Attack,Domination,5,3,7,1
+962,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,7,3,3,1
+963,Victory,Vayne,Flash,Heal,Press the Attack,Domination,3,3,2,1
+964,Victory,Vayne,Flash,Heal,Press the Attack,Domination,4,1,4,1
+965,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,9,1,8,1
+966,Defeat,Aatrox,Flash,Teleport,Conqueror,Resolve,4,10,9,1
+967,Victory,Vayne,Flash,Heal,Press the Attack,Domination,9,9,2,1
+968,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,14,7,5,1
+969,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,1,2,1,1
+970,Defeat,Vayne,Flash,Cleanse,Press the Attack,Domination,4,8,0,1
+971,Defeat,Ezreal,Flash,Cleanse,Conqueror,Inspiration,7,6,5,1
+972,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,3,4,5,1
+973,Defeat,Xayah,Flash,Cleanse,Lethal Tempo,Domination,2,4,0,1
+974,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,7,3,7,1
+975,Defeat,Samira,Flash,Heal,Conqueror,Domination,5,5,2,1
+976,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,10,4,13,1
+977,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,6,3,4,1
+978,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,9,5,8,1
+979,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,7,7,3,1
+980,Victory,Xayah,Flash,Heal,Hail of Blades,Precision,6,6,8,1
+981,Victory,Xayah,Flash,Heal,Lethal Tempo,Domination,20,6,6,1
+982,Victory,Xayah,Flash,Heal,Hail of Blades,Precision,11,4,6,1
+983,Defeat,Xayah,Flash,Heal,Lethal Tempo,Domination,9,6,4,1
+984,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,4,9,0,1
+985,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,20,13,6,1
+986,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,16,12,10,1
+987,Victory,Samira,Flash,Heal,Conqueror,Domination,8,6,4,1
+988,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,5,6,1,1
+989,Defeat,Aatrox,Flash,Teleport,Conqueror,Domination,1,13,0,1
+990,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,1,5,4,1
+991,Defeat,Aphelios,Flash,Cleanse,Conqueror,Domination,2,6,1,1
+992,Defeat,Twitch,Flash,Cleanse,Hail of Blades,Precision,1,4,2,1
+993,Victory,Vayne,Flash,Heal,Press the Attack,Domination,16,9,1,1
+994,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,6,3,10,1
+995,Victory,Twitch,Flash,Heal,Hail of Blades,Precision,3,4,7,1
+996,Defeat,Kalista,Flash,Cleanse,Hail of Blades,Precision,5,5,2,1
+997,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,10,3,6,1
+998,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,6,7,10,1
+999,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,8,4,8,1
+1000,Victory,Samira,Flash,Heal,Conqueror,Domination,7,0,3,1
+1001,Defeat,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,0,9,5,1
+1002,Victory,Vayne,Flash,Heal,Press the Attack,Domination,7,6,7,1
+1003,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,10,2,3,1
+1004,Victory,Samira,Flash,Heal,Conqueror,Domination,11,5,4,1
+1005,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,5,11,1,1
+1006,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,1,9,3,1
+1007,Defeat,Vayne,Flash,Heal,Hail of Blades,Precision,1,10,4,1
+1008,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,6,1,1,1
+1009,Victory,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,13,7,7,1
+1010,Defeat,Aphelios,Flash,Heal,Conqueror,Domination,11,13,10,1
+1011,Defeat,Xayah,Flash,Heal,Lethal Tempo,Inspiration,2,10,5,1
+1012,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,3,11,6,1
+1013,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,27,8,8,1
+1014,Victory,Xayah,Flash,Heal,Lethal Tempo,Inspiration,10,6,8,1
+1015,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,6,3,1,1
+1016,Victory,Gnar,Flash,Teleport,Grasp of the Undying,Domination,10,3,17,1
+1017,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,17,10,9,1
+1018,Defeat,Lillia,Flash,Smite,Dark Harvest,Sorcery,1,7,4,1
+1019,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,3,6,9,1
+1020,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,2,9,6,1
+1021,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,1,11,4,1
+1022,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,2,4,9,1
+1023,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,3,3,6,1
+1024,Defeat,Yasuo,Flash,Exhaust,Conqueror,Domination,6,7,5,1
+1025,Defeat,Sett,Flash,Ignite,Phase Rush,Inspiration,2,9,2,1
+1026,Victory,Kai'Sa,Flash,Cleanse,Hail of Blades,Inspiration,15,3,4,1
+1027,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,2,11,2,1
+1028,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,5,5,1,1
+1029,Defeat,Vayne,Flash,Heal,Conqueror,Domination,1,3,1,1
+1030,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,6,16,9,1
+1031,Victory,Aphelios,Flash,Cleanse,Conqueror,Domination,9,3,8,1
+1032,Victory,Vayne,Flash,Heal,Press the Attack,Domination,12,1,5,1
+1033,Victory,Aphelios,Flash,Heal,Conqueror,Domination,11,5,11,1
+1034,Defeat,Samira,Flash,Heal,Conqueror,Domination,2,10,4,1
+1035,Defeat,Aphelios,Flash,Cleanse,Conqueror,Domination,1,12,7,1
+1036,Victory,Miss Fortune,Flash,Heal,Press the Attack,Inspiration,7,8,5,1
+1037,Defeat,Aphelios,Flash,Heal,Conqueror,Domination,2,8,1,1
+1038,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,10,3,10,1
+1039,Victory,Vayne,Flash,Heal,Press the Attack,Domination,11,4,4,1
+1040,Victory,Jinx,Flash,Heal,Lethal Tempo,Domination,5,4,7,1
+1041,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,8,2,11,1
+1042,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,3,4,2,1
+1043,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,4,1,5,1
+1044,Victory,Aphelios,Flash,Heal,Conqueror,Domination,10,3,6,1
+1045,Victory,Jhin,Flash,Cleanse,Fleet Footwork,Inspiration,1,2,6,1
+1046,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,4,2,5,1
+1047,Victory,Samira,Flash,Heal,Conqueror,Domination,15,2,6,1
+1048,Defeat,Graves,Flash,Smite,Phase Rush,Precision,18,5,3,1
+1049,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,6,8,8,1
+1050,Victory,Aphelios,Flash,Cleanse,Conqueror,Domination,14,3,11,1
+1051,Victory,Samira,Flash,Heal,Conqueror,Domination,5,10,21,1
+1052,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,1,7,2,1
+1053,Victory,Aphelios,Flash,Heal,Lethal Tempo,Domination,3,3,4,1
+1054,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,3,6,1,1
+1055,Victory,Aphelios,Flash,Heal,Conqueror,Domination,10,7,9,1
+1056,Defeat,Vayne,Flash,Teleport,Press the Attack,Domination,1,8,0,1
+1057,Victory,Samira,Flash,Heal,Conqueror,Domination,12,8,5,1
+1058,Defeat,Aphelios,Flash,Heal,Conqueror,Domination,8,10,6,1
+1059,Defeat,Samira,Flash,Heal,Conqueror,Domination,3,6,4,1
+1060,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Precision,2,7,4,1
+1061,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,1,8,14,1
+1062,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,10,2,9,1
+1063,Defeat,Jhin,Flash,Cleanse,Fleet Footwork,Inspiration,3,7,6,1
+1064,Defeat,Samira,Flash,Heal,Conqueror,Domination,8,7,4,1
+1065,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Precision,12,4,9,1
+1066,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,2,7,4,1
+1067,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,9,8,8,1
+1068,Victory,Samira,Flash,Heal,Conqueror,Domination,6,5,4,1
+1069,Defeat,Samira,Flash,Heal,Conqueror,Domination,9,10,9,1
+1070,Victory,Samira,Flash,Heal,Conqueror,Domination,4,10,0,1
+1071,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,3,12,5,1
+1072,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,9,11,5,1
+1073,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,3,6,7,1
+1074,Victory,Xayah,Flash,Heal,Hail of Blades,Inspiration,8,3,5,1
+1075,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,6,7,7,1
+1076,Victory,Miss Fortune,Flash,Heal,Press the Attack,Inspiration,8,3,6,1
+1077,Victory,Vayne,Flash,Heal,Press the Attack,Domination,12,4,6,1
+1078,Defeat,Aphelios,Flash,Heal,Lethal Tempo,Sorcery,1,13,5,1
+1079,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,6,2,5,1
+1080,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,4,4,4,1
+1081,Defeat,Miss Fortune,Flash,Heal,Press the Attack,Inspiration,7,10,5,1
+1082,Defeat,Lee Sin,Flash,Smite,Conqueror,Sorcery,1,5,1,1
+1083,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,6,9,10,1
+1084,Victory,Vayne,Flash,Heal,Press the Attack,Domination,6,1,2,1
+1085,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,9,10,7,1
+1086,Defeat,Vayne,Flash,Heal,Press the Attack,Domination,2,10,5,1
+1087,Defeat,Samira,Flash,Heal,Conqueror,Domination,8,11,3,1
+1088,Defeat,Miss Fortune,Flash,Cleanse,Press the Attack,Inspiration,6,11,6,1
+1089,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,15,6,15,1
+1090,Defeat,Miss Fortune,Flash,Heal,Press the Attack,Inspiration,3,8,5,1
+1091,Defeat,Graves,Ignite,Smite,Phase Rush,Precision,3,15,3,1
+1092,Defeat,Jhin,Flash,Cleanse,Fleet Footwork,Inspiration,16,9,16,1
+1093,Victory,Vayne,Flash,Heal,Press the Attack,Domination,11,6,6,1
+1094,Defeat,Miss Fortune,Flash,Heal,Press the Attack,Inspiration,13,13,4,1
+1095,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,12,4,5,1
+1096,Victory,Ezreal,Flash,Heal,Conqueror,Inspiration,8,9,15,1
+1097,Defeat,Samira,Flash,Heal,Conqueror,Domination,4,6,8,1
+1098,Defeat,Ashe,Flash,Heal,Lethal Tempo,Inspiration,2,6,3,1
+1099,Defeat,Samira,Flash,Heal,Conqueror,Domination,8,4,0,1
+1100,Victory,Miss Fortune,Flash,Heal,Press the Attack,Inspiration,11,1,1,1
+1101,Victory,Miss Fortune,Flash,Heal,Press the Attack,Inspiration,17,8,4,1
+1102,Victory,Aphelios,Flash,Heal,Lethal Tempo,Sorcery,8,7,11,1
+1103,Victory,Vayne,Flash,Heal,Press the Attack,Domination,16,4,6,1
+1104,Victory,Samira,Flash,Heal,Conqueror,Domination,1,1,9,1
+1105,Victory,Vayne,Flash,Heal,Press the Attack,Domination,5,5,9,1
+1106,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,5,2,10,1
+1107,Defeat,Miss Fortune,Flash,Heal,Arcane Comet,Domination,5,7,8,1
+1108,Victory,Aphelios,Flash,Heal,Lethal Tempo,Domination,3,8,10,1
+1109,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Precision,4,3,2,1
+1110,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,9,3,9,1
+1111,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,12,7,8,1
+1112,Victory,Aphelios,Flash,Cleanse,Lethal Tempo,Sorcery,19,12,11,1
+1113,Victory,Jhin,Flash,Cleanse,Fleet Footwork,Inspiration,7,4,14,1
+1114,Victory,Gangplank,Flash,Teleport,Grasp of the Undying,Inspiration,4,7,9,1
+1115,Victory,Vayne,Flash,Cleanse,Press the Attack,Domination,18,4,6,1
+1116,Victory,Vayne,Flash,Heal,Press the Attack,Domination,20,7,4,1
+1117,Defeat,Samira,Flash,Heal,Conqueror,Domination,2,8,1,1
+1118,Victory,Samira,Flash,Heal,Conqueror,Domination,18,4,11,1
+1119,Victory,Kai'Sa,Flash,Teleport,Hail of Blades,Precision,6,1,2,1
+1120,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,19,5,12,1
+1121,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,3,13,10,1
+1122,Victory,Aatrox,Flash,Teleport,Conqueror,Resolve,8,6,10,1
+1123,Victory,Jayce,Flash,Teleport,Conqueror,Inspiration,2,13,8,1
+1124,Victory,Aphelios,Flash,Cleanse,Lethal Tempo,Sorcery,3,1,7,1
+1125,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Precision,15,6,10,1
+1126,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,19,7,7,1
+1127,Defeat,Samira,Flash,Heal,Conqueror,Domination,5,7,7,1
+1128,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Precision,7,6,2,1
+1129,Defeat,Miss Fortune,Flash,Heal,Arcane Comet,Domination,2,6,0,1
+1130,Victory,Jhin,Flash,Heal,Dark Harvest,Sorcery,12,2,6,1
+1131,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,6,4,7,1
+1132,Victory,Samira,Flash,Heal,Conqueror,Domination,10,1,5,1
+1133,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,14,3,7,1
+1134,Victory,Samira,Flash,Heal,Conqueror,Domination,6,1,6,1
+1135,Defeat,Miss Fortune,Flash,Heal,Press the Attack,Sorcery,2,5,6,1
+1136,Victory,Samira,Flash,Heal,Conqueror,Domination,9,7,8,1
+1137,Victory,Miss Fortune,Flash,Heal,Arcane Comet,Domination,10,5,8,1
+1138,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,4,4,10,1
+1139,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,13,6,10,1
+1140,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,10,4,9,1
+1141,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,11,3,3,1
+1142,Defeat,Samira,Flash,Heal,Conqueror,Domination,2,6,2,1
+1143,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,11,6,13,1
+1144,Defeat,Miss Fortune,Flash,Heal,Arcane Comet,Domination,6,9,2,1
+1145,Victory,Miss Fortune,Flash,Heal,Arcane Comet,Domination,17,8,18,1
+1146,Victory,Samira,Flash,Heal,Conqueror,Domination,1,4,7,1
+1147,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,5,3,8,1
+1148,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,11,7,8,1
+1149,Defeat,Aatrox,Flash,Teleport,Conqueror,Resolve,1,10,2,1
+1150,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,11,6,9,1
+1151,Defeat,Miss Fortune,Flash,Heal,Arcane Comet,Domination,3,5,5,1
+1152,Defeat,Jhin,Flash,Ghost,Fleet Footwork,Inspiration,5,8,4,1
+1153,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,2,5,3,1
+1154,Victory,Miss Fortune,Flash,Heal,Arcane Comet,Domination,3,1,4,1
+1155,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Precision,13,10,8,1
+1156,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,13,4,15,1
+1157,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Precision,4,4,9,1
+1158,Victory,Aphelios,Flash,Heal,Lethal Tempo,Sorcery,9,7,12,1
+1159,Victory,Aphelios,Flash,Heal,Lethal Tempo,Sorcery,5,3,7,1
+1160,Victory,Samira,Flash,Heal,Conqueror,Domination,20,4,9,1
+1161,Victory,Miss Fortune,Flash,Heal,Arcane Comet,Domination,5,3,16,1
+1162,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,4,4,9,1
+1163,Remake,Jhin,Flash,Heal,Fleet Footwork,Inspiration,0,0,0,1
+1164,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,15,1,6,1
+1165,Defeat,Samira,Flash,Heal,Conqueror,Domination,9,8,3,1
+1166,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,1,4,1,1
+1167,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,15,4,13,1
+1168,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,11,13,15,1
+1169,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,10,6,13,1
+1170,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,18,5,11,1
+1171,Victory,Lucian,Flash,Heal,Press the Attack,Domination,15,11,11,1
+1172,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,8,6,13,1
+1173,Victory,Samira,Flash,Heal,Conqueror,Domination,8,2,10,1
+1174,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,3,1,11,1
+1175,Defeat,Samira,Flash,Heal,Conqueror,Domination,4,9,5,1
+1176,Victory,Tristana,Flash,Heal,Hail of Blades,Precision,8,3,7,1
+1177,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,2,3,2,1
+1178,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,11,12,10,1
+1179,Defeat,Kalista,Flash,Heal,Hail of Blades,Precision,4,3,7,1
+1180,Defeat,Kalista,Flash,Heal,Hail of Blades,Precision,4,10,2,1
+1181,Defeat,Caitlyn,Flash,Cleanse,Lethal Tempo,Sorcery,6,8,8,1
+1182,Defeat,Jhin,Flash,Cleanse,Fleet Footwork,Inspiration,7,5,9,1
+1183,Victory,Ashe,Flash,Heal,Arcane Comet,Inspiration,4,3,6,1
+1184,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,9,2,9,1
+1185,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,5,2,6,1
+1186,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,6,6,4,1
+1187,Victory,Jhin,Flash,Cleanse,Fleet Footwork,Inspiration,10,2,4,1
+1188,Victory,Lucian,Flash,Heal,Press the Attack,Domination,9,0,6,1
+1189,Victory,Aatrox,Flash,Teleport,Conqueror,Resolve,6,8,10,1
+1190,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,4,3,8,1
+1191,Victory,Jhin,Flash,Barrier,Fleet Footwork,Inspiration,7,7,9,1
+1192,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,3,0,7,1
+1193,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,12,3,11,1
+1194,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,9,1,9,1
+1195,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,21,1,9,1
+1196,Defeat,Maokai,Flash,Teleport,Aftershock,Sorcery,1,11,14,1
+1197,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,18,7,8,1
+1198,Defeat,Lucian,Flash,Heal,Press the Attack,Domination,8,5,4,1
+1199,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Precision,6,9,5,1
+1200,Victory,Ziggs,Flash,Teleport,Arcane Comet,Inspiration,6,5,11,1
+1201,Defeat,Samira,Flash,Heal,Conqueror,Domination,10,10,7,1
+1202,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,11,8,23,1
+1203,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Precision,7,9,9,1
+1204,Defeat,Jhin,Flash,Heal,Dark Harvest,Sorcery,1,9,8,1
+1205,Defeat,Ashe,Flash,Heal,Arcane Comet,Domination,1,8,1,1
+1206,Defeat,Lucian,Flash,Heal,Press the Attack,Domination,2,7,2,1
+1207,Victory,Jhin,Flash,Heal,Dark Harvest,Sorcery,10,4,11,1
+1208,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,9,6,8,1
+1209,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,6,9,16,1
+1210,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,7,8,13,1
+1211,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,20,1,8,1
+1212,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,12,1,5,1
+1213,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,21,9,9,1
+1214,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,5,5,4,1
+1215,Defeat,Jhin,Flash,Heal,Dark Harvest,Sorcery,8,8,6,1
+1216,Victory,Jhin,Flash,Heal,Dark Harvest,Precision,10,1,8,1
+1217,Victory,Caitlyn,Flash,Heal,Lethal Tempo,Sorcery,5,2,6,1
+1218,Victory,Caitlyn,Flash,Heal,Lethal Tempo,Sorcery,8,3,3,1
+1219,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,13,1,8,1
+1220,Defeat,Samira,Flash,Heal,Conqueror,Domination,1,7,0,1
+1221,Defeat,Jhin,Flash,Heal,Dark Harvest,Sorcery,3,5,2,1
+1222,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,8,5,5,1
+1223,Defeat,Jhin,Flash,Heal,Dark Harvest,Sorcery,2,8,5,1
+1224,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,5,4,8,1
+1225,Victory,Lucian,Flash,Heal,Press the Attack,Sorcery,6,8,9,1
+1226,Defeat,Jhin,Flash,Heal,Dark Harvest,Sorcery,19,12,12,1
+1227,Victory,Jhin,Flash,Heal,Dark Harvest,Sorcery,11,4,6,1
+1228,Victory,Rell,Flash,Ignite,Aftershock,Inspiration,1,2,13,1
+1229,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,7,5,11,1
+1230,Victory,Caitlyn,Flash,Heal,Lethal Tempo,Sorcery,6,3,9,1
+1231,Victory,Jhin,Flash,Heal,Dark Harvest,Sorcery,9,5,11,1
+1232,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Inspiration,8,11,7,1
+1233,Defeat,Miss Fortune,Flash,Heal,Arcane Comet,Domination,2,10,3,1
+1234,Defeat,Tristana,Flash,Heal,Hail of Blades,Precision,1,4,0,1
+1235,Victory,Kai'Sa,Flash,Heal,Hail of Blades,Precision,10,5,9,1
+1236,Defeat,Miss Fortune,Flash,Heal,Arcane Comet,Domination,1,11,7,1
+1237,Defeat,Kai'Sa,Flash,Heal,Hail of Blades,Precision,2,12,10,1
+1238,Defeat,Jhin,Flash,Heal,Fleet Footwork,Inspiration,7,6,7,1
+1239,Victory,Jhin,Flash,Heal,Fleet Footwork,Inspiration,10,2,2,1
+1240,,,,,,,,,,
+1241,,,,,,,,,,
+1242,,,,,,,,,,
+1243,,,,,,,,,,
+1244,,,,,,,,,,
+1245,,,,,,,,,,
+1246,,,,,,,,,,
+1247,,,,,,,,,,
+1248,,,,,,,,,,
+1249,,,,,,,,,,
+1250,,,,,,,,,,
+1251,,,,,,,,,,
+1252,,,,,,,,,,
+1253,,,,,,,,,,
+1254,,,,,,,,,,
+1255,,,,,,,,,,
+1256,,,,,,,,,,
+1257,,,,,,,,,,
+1258,,,,,,,,,,
+1259,,,,,,,,,,
+1260,,,,,,,,,,
+1261,,,,,,,,,,
+1262,,,,,,,,,,
+1263,,,,,,,,,,
+1264,,,,,,,,,,
+1265,,,,,,,,,,
+1266,,,,,,,,,,
+1267,,,,,,,,,,
+1268,,,,,,,,,,
+1269,,,,,,,,,,
+1270,,,,,,,,,,
+1271,,,,,,,,,,
+1272,,,,,,,,,,
+1273,,,,,,,,,,
+1274,,,,,,,,,,
+1275,,,,,,,,,,
+1276,,,,,,,,,,
+1277,,,,,,,,,,
+1278,,,,,,,,,,
+1279,,,,,,,,,,
+1280,,,,,,,,,,
+1281,,,,,,,,,,
+1282,,,,,,,,,,
+1283,,,,,,,,,,
+1284,,,,,,,,,,
+1285,,,,,,,,,,
+1286,,,,,,,,,,
+1287,,,,,,,,,,
+1288,,,,,,,,,,
+1289,,,,,,,,,,
+1290,,,,,,,,,,
+1291,,,,,,,,,,
+1292,,,,,,,,,,
+1293,,,,,,,,,,
+1294,,,,,,,,,,
+1295,,,,,,,,,,
+1296,,,,,,,,,,
+1297,,,,,,,,,,
+1298,,,,,,,,,,
+1299,,,,,,,,,,
+1300,,,,,,,,,,
+1301,,,,,,,,,,
+1302,,,,,,,,,,
+1303,,,,,,,,,,
+1304,,,,,,,,,,
+1305,,,,,,,,,,
+1306,,,,,,,,,,
+1307,,,,,,,,,,
+1308,,,,,,,,,,
+1309,,,,,,,,,,
+1310,,,,,,,,,,
+1311,,,,,,,,,,
+1312,,,,,,,,,,
+1313,,,,,,,,,,
+1314,,,,,,,,,,
+1315,,,,,,,,,,
+1316,,,,,,,,,,
+1317,,,,,,,,,,
+1318,,,,,,,,,,
+1319,,,,,,,,,,
+1320,,,,,,,,,,
+1321,,,,,,,,,,
+1322,,,,,,,,,,
+1323,,,,,,,,,,
+1324,,,,,,,,,,
+1325,,,,,,,,,,
+1326,,,,,,,,,,
+1327,,,,,,,,,,
+1328,,,,,,,,,,
+1329,,,,,,,,,,
+1330,,,,,,,,,,
+1331,,,,,,,,,,
+1332,,,,,,,,,,
+1333,,,,,,,,,,
+1334,,,,,,,,,,
+1335,,,,,,,,,,
+1336,,,,,,,,,,
+1337,,,,,,,,,,
+1338,,,,,,,,,,
+1339,,,,,,,,,,
+1340,,,,,,,,,,
+1341,,,,,,,,,,
+1342,,,,,,,,,,
+1343,,,,,,,,,,
+1344,,,,,,,,,,
+1345,,,,,,,,,,
+1346,,,,,,,,,,
+1347,,,,,,,,,,
+1348,,,,,,,,,,
+1349,,,,,,,,,,
+1350,,,,,,,,,,
+1351,,,,,,,,,,
+1352,,,,,,,,,,
+1353,,,,,,,,,,
+1354,,,,,,,,,,
+1355,,,,,,,,,,
+1356,,,,,,,,,,
+1357,,,,,,,,,,
+1358,,,,,,,,,,
+1359,,,,,,,,,,
+1360,,,,,,,,,,
+1361,,,,,,,,,,
+1362,,,,,,,,,,
+1363,,,,,,,,,,
+1364,,,,,,,,,,
+1365,,,,,,,,,,
+1366,,,,,,,,,,
+1367,,,,,,,,,,
+1368,,,,,,,,,,
+1369,,,,,,,,,,
+1370,,,,,,,,,,
+1371,,,,,,,,,,
+1372,,,,,,,,,,
+1373,,,,,,,,,,
+1374,,,,,,,,,,
+1375,,,,,,,,,,
+1376,,,,,,,,,,
+1377,,,,,,,,,,
+1378,,,,,,,,,,
+1379,,,,,,,,,,
+1380,,,,,,,,,,
+1381,,,,,,,,,,
+1382,,,,,,,,,,
+1383,,,,,,,,,,
+1384,,,,,,,,,,
+1385,,,,,,,,,,
+1386,,,,,,,,,,
+1387,,,,,,,,,,
+1388,,,,,,,,,,
+1389,,,,,,,,,,
+1390,,,,,,,,,,
+1391,,,,,,,,,,
+1392,,,,,,,,,,
+1393,,,,,,,,,,
+1394,,,,,,,,,,
+1395,,,,,,,,,,
+1396,,,,,,,,,,
+1397,,,,,,,,,,
+1398,,,,,,,,,,
+1399,,,,,,,,,,
+1400,,,,,,,,,,
+1401,,,,,,,,,,
+1402,,,,,,,,,,
+1403,,,,,,,,,,
+1404,,,,,,,,,,
+1405,,,,,,,,,,
+1406,,,,,,,,,,
+1407,,,,,,,,,,
+1408,,,,,,,,,,
+1409,,,,,,,,,,
+1410,,,,,,,,,,
+1411,,,,,,,,,,
+1412,,,,,,,,,,
+1413,,,,,,,,,,
+1414,,,,,,,,,,
+1415,,,,,,,,,,
+1416,,,,,,,,,,
+1417,,,,,,,,,,
+1418,,,,,,,,,,
+1419,,,,,,,,,,
+1420,,,,,,,,,,
+1421,,,,,,,,,,
+1422,,,,,,,,,,
+1423,,,,,,,,,,
+1424,,,,,,,,,,
+1425,,,,,,,,,,
+1426,,,,,,,,,,
+1427,,,,,,,,,,
+1428,,,,,,,,,,
+1429,,,,,,,,,,
+1430,,,,,,,,,,
+1431,,,,,,,,,,
+1432,,,,,,,,,,
+1433,,,,,,,,,,
+1434,,,,,,,,,,
+1435,,,,,,,,,,
+1436,,,,,,,,,,
+1437,,,,,,,,,,
+1438,,,,,,,,,,
+1439,,,,,,,,,,
+1440,,,,,,,,,,
+1441,,,,,,,,,,
+1442,,,,,,,,,,
+1443,,,,,,,,,,
+1444,,,,,,,,,,
+1445,,,,,,,,,,
+1446,,,,,,,,,,
+1447,,,,,,,,,,
+1448,,,,,,,,,,
+1449,,,,,,,,,,
+1450,,,,,,,,,,
+1451,,,,,,,,,,
+1452,,,,,,,,,,
+1453,,,,,,,,,,
+1454,,,,,,,,,,
+1455,,,,,,,,,,
+1456,,,,,,,,,,
+1457,,,,,,,,,,
+1458,,,,,,,,,,
+1459,,,,,,,,,,
+1460,,,,,,,,,,
+1461,,,,,,,,,,
+1462,,,,,,,,,,
+1463,,,,,,,,,,
+1464,,,,,,,,,,
+1465,,,,,,,,,,
+1466,,,,,,,,,,
+1467,,,,,,,,,,
+1468,,,,,,,,,,
+1469,,,,,,,,,,
+1470,,,,,,,,,,
+1471,,,,,,,,,,
+1472,,,,,,,,,,
+1473,,,,,,,,,,
+1474,,,,,,,,,,
+1475,,,,,,,,,,
+1476,,,,,,,,,,
+1477,,,,,,,,,,
+1478,,,,,,,,,,
+1479,,,,,,,,,,
+1480,,,,,,,,,,
+1481,,,,,,,,,,
+1482,,,,,,,,,,
+1483,,,,,,,,,,
+1484,,,,,,,,,,
+1485,,,,,,,,,,
+1486,,,,,,,,,,
+1487,,,,,,,,,,
+1488,,,,,,,,,,
+1489,,,,,,,,,,
+1490,,,,,,,,,,
+1491,,,,,,,,,,
+1492,,,,,,,,,,
+1493,,,,,,,,,,
+1494,,,,,,,,,,
+1495,,,,,,,,,,
+1496,,,,,,,,,,
+1497,,,,,,,,,,
+1498,,,,,,,,,,
+1499,,,,,,,,,,
